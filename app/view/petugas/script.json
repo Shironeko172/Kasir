@@ -1,0 +1,10 @@
+[
+    "<script src=\"{{base_url}}skin/js/jquery-3.7.1.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/dataTables.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/dataTables.bootstrap5.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/jquery.number.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/select2.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/sweetalert2.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/xlsx.full.min.js\"></script>",
+    "<script src=\"{{base_url}}skin/js/bootstrap.min.js\"></script>"
+]
